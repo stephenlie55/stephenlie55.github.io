@@ -31,7 +31,7 @@ nav span {
 }
 
 nav a {
-  color: #666666;
+  color: #FFFFFF;
 }
 
 /* Content Container */
@@ -72,7 +72,7 @@ nav a {
 }
 
 .body p {
-  color: #333333;
+  color: #FFFFFF;
   font-weight: 100;
   line-height: 34px;
   width: 90%;
@@ -83,7 +83,7 @@ nav a {
 
 .button {
   border-radius: 4px;
-  color: #05A8AA;
+  color: #FFFFFF;
   width: 200px;
   padding: 20px;
   margin: 40px auto;
@@ -92,8 +92,8 @@ nav a {
 }
 
 .button:hover {
-  background-color: #05A8AA;
-  border: 1px solid #05A8AA;
+  background-color: #FFFFFF;
+  border: 1px solid #FFFFFF;
   color: #FFF;
 }
 
@@ -105,7 +105,7 @@ ul.bike {
 
 ul.bike li {
   display: inline-block;
-  background-color: #05A8AA;
+  background-color: #FFFFFF;
   width: 200px;
   padding: 10px 20px;
   margin-bottom: 3px;
