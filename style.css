@@ -1,0 +1,127 @@
+/* Universal Styles */
+
+body {
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy776oLfKbu1ukoXxBxKh-vKwckWWGllNO9jQ3upPlj9V9bwWY");
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+  font-size: 18px;
+}
+
+a {
+  text-decoration: none;
+}
+
+/* Navigation */
+
+nav {
+  text-align: center;
+}
+
+nav img {
+  width: 180px;
+  margin: 0 auto;
+}
+
+nav span {
+  display: block;
+  font-size: 16px;
+  font-weight: 100;
+  margin: 10px 0px;
+  letter-spacing: 2px;
+}
+
+nav a {
+  color: #666666;
+}
+
+/* Content Container */
+
+.content {
+  height: 500px;
+  width: 100%;
+  margin: 10px auto;
+  overflow: scroll;
+}
+
+/* Content Header */
+
+.header {
+  background-image: url("https://www.tradebit.com/usr/eduwonk/pub/9002/278981190_wr.jpg");
+  background-position: center;
+  background-size: cover;
+  height: 320px;
+}
+
+.header h1 {
+  background-color: #05A8AA;
+  color: #FFF;
+  padding: 20px;
+  margin: 0 auto;
+  font-family: 'Oswald', sans-serif;
+  font-size: 40px;
+  font-weight: 300;
+  line-height: 40px;
+  width: 68%;
+}
+
+/* Content Body */
+
+.content .body {
+  margin: 0 auto;
+  width: 90%;
+}
+
+.body p {
+  color: #333333;
+  font-weight: 100;
+  line-height: 34px;
+  width: 90%;
+  margin-top: 18px;
+}
+
+/* Content Button */
+
+.button {
+  border-radius: 4px;
+  color: #05A8AA;
+  width: 200px;
+  padding: 20px;
+  margin: 40px auto;
+  border: 1px solid blue;
+  font-weight: 700;
+}
+
+.button:hover {
+  background-color: #05A8AA;
+  border: 1px solid #05A8AA;
+  color: #FFF;
+}
+
+/* Content bike */
+
+ul.bike {
+  padding: 20px;
+}
+
+ul.bike li {
+  display: inline-block;
+  background-color: #05A8AA;
+  width: 200px;
+  padding: 10px 20px;
+  margin-bottom: 3px;
+  list-style: none;
+}
+
+.bike .category {
+  color: white;
+  font-weight: 100;
+  letter-spacing: 2px;
+  display: block;
+}
+
+.bike .value {
+  color: white;
+  font-size: 26px;
+  font-weight: 700;
+  letter-spacing: 2px;
+}
